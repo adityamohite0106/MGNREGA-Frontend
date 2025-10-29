@@ -7,7 +7,9 @@ import {
 import { Users, Briefcase, DollarSign, TrendingUp, Calendar } from 'lucide-react';
 import './App.css';
 
-const BACKEND_URL = 'http://localhost:5000';
+// added hosted url
+
+const BACKEND_URL = 'https://mgnrega-backend-n3vs.onrender.com';
 
 const translations = {
   en: {
